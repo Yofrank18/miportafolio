@@ -7,7 +7,6 @@
     font-weight: 700;
     font-size: 40px;
 }
-
 /*Hero*/
 .html,body{
     height:100vh;
@@ -26,6 +25,16 @@ hr {
     text-align: center;
     color: #660066;
 }
-.icono{
-    text-decoration: none !important;
+.icono a{
+    color: white;
 }
+.texto-hero{
+    position: absolute;
+    top: 62%;
+    width: 100%;
+}
+@media (min-width:768px){
+    .mishobbis {width: 50%; margin: auto;}}
+
+@media (min-width:992px){
+        .mishobbis {width: 80%;}}
