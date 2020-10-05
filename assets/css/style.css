@@ -1,0 +1,31 @@
+/*Nav*/
+.bg-pink{
+    background-color: #660066;
+}
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/*Hero*/
+.html,body{
+    height:100vh;
+}
+.hero{
+    background-image:url('/assets/img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 100%;
+    position: relative;
+}
+hr {
+    width: 25%;
+    border: solid 1px;
+    text-align: center;
+    color: #660066;
+}
+.icono{
+    text-decoration: none !important;
+}
