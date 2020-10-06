@@ -1,6 +1,6 @@
 /*Nav*/
 .bg-pink{
-    background-color: #660066;
+    background-color: #000000;
 }
 .navbar-brand{
     font-family: 'Oswald', sans-serif;
@@ -12,7 +12,7 @@
     height:100vh;
 }
 .hero{
-    background-image:url('/assets/img/bg_hero.png');
+    background-image:url('/assets/img/IMG-20191217-WA0013.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
