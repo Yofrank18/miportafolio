@@ -7,6 +7,9 @@
     font-weight: 700;
     font-size: 40px;
 }
+.header{
+    font-family: 'Bad Script', cursive;;
+}
 /*Hero*/
 .html,body{
     height:100vh;
@@ -32,6 +35,13 @@ hr {
     position: absolute;
     top: 62%;
     width: 100%;
+}
+h5{
+    text-align: center;
+}
+#trabajos{
+    padding-right: 0px;
+    padding-left: 0px;
 }
 @media (min-width:768px){
     .mishobbis {width: 50%; margin: auto;}}
