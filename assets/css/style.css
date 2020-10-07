@@ -8,7 +8,7 @@
     font-size: 40px;
 }
 .header{
-    font-family: 'Bad Script', cursive;;
+    font-family: 'Bad Script', cursive
 }
 /*Hero*/
 .html,body{
@@ -47,4 +47,7 @@ h5{
     .mishobbis {width: 50%; margin: auto;}}
 
 @media (min-width:992px){
-        .mishobbis {width: 80%;}}
+        .mishobbis {width: 50%;}}
+
+@media (min-width:768px){
+        .texto-hero {font-family: 'Bad Script', cursive;}}
